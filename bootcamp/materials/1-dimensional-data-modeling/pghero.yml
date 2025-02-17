@@ -1,0 +1,5 @@
+databases:
+  database1:
+    url: postgres://postgres:postgres@host.docker.internal/dbe_assign1
+  database2:
+    url: postgres://postgres:postgres@host.docker.internal/mydata
